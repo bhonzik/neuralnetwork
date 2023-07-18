@@ -231,5 +231,5 @@ plt.ylabel('Best Cost (Record)')
 plt.title('Best Cost (Record) vs. Epochs')
 plt.show()
 
-save_list_to_file(basew, r"C:\Users\Brendan Honzik\Dropbox\PC\Desktop\values\weights.txt")
-save_list_to_file(basebias, r"C:\Users\Brendan Honzik\Dropbox\PC\Desktop\values\bias.txt")
+save_list_to_file(basew, r"C:\Users\myname\Dropbox\PC\Desktop\values\weights.txt")
+save_list_to_file(basebias, r"C:\Users\myname\Dropbox\PC\Desktop\values\bias.txt")
